@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@dha-stix](https://{github.com/dha-stix})
-- Twitter [@Arshadayvid](https://{twitter.com/Arshadayvid})
+- Website [Github Page](https://github.com/dha-stix)
+- GitHub [@dha-stix](https://github.com/dha-stix)
+- Twitter [@Arshadayvid](https://twitter.com/Arshadayvid)
